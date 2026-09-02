@@ -1,4 +1,4 @@
-## AutoCare Operations Dashboard
+## Operations Dashboard
 
 A modern Live Vehicle Service Operations Dashboard built as a Full Stack Developer Intern assignment for Instant Mechanic.
 

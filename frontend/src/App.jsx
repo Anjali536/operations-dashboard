@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 
 import Header from "./components/Header";
-import Sidebar from "./components/SideBar";
+import Sidebar from "./components/Sidebar";
 
 import LandingPage from "./pages/LandingPage";
 import Dashboard from "./pages/Dashboard";
